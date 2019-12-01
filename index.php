@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <head>
-	<title>WAMP stack</title>
+	<title>LeetCode1</title>
 </head>
 <body>
 	<p>Here are some things you can do in this project:</p>
 	<ul>
 		<li><a href="/phpmyadmin">phpMyAdmin</a></li>
 		<li><a href="/phpinfo.php">phpinfo</a></li>
+		<li><a href="/leetcode1.php">leetcode1</a></li>
+		
 	</ul>
-	<?php echo "hello"; ?>
+	
+	<?php
+	   $myName = "Alan";
+       echo "<h1>" . $myName . "</h1>\n";
+	?>
 </body>
 </html>
