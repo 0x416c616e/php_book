@@ -31,7 +31,6 @@
         } else {
             return $xFinal;
         }
-        
 	}
 	echo reverse(100) . "<br>";
 	echo reverse(-543) . "<br>";
